@@ -11,3 +11,7 @@
 - use [[with(Context_Manager)]] whenever you are opening and closing the connections.
 - use [[logging.md]] logging for the logging.
 - use [[Hashicorp_vault.md]] for storing the secrets.
+
+# Path : 
+- If you have to use the path, the use this command
+- Path(__file__) to start working on the path, this command will give you the path of the current file you are working on, from there on you can move to any file you want.

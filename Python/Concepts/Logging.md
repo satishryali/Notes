@@ -40,3 +40,9 @@ Tests\Logging\Log.py
 - parent : actually taking care of moving one folder up.
 
 
+# TIPS
+
+# When you are not sure about the error using logging.exception in the except section.
+- except exception as e:
+    logging.exception("message")
+- This will gives us the error.
