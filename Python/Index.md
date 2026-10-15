@@ -10,3 +10,7 @@
 # Vault 
 
 1. Hasicorp Vault [[Hashicorp_vault]]
+
+# Python Fundamentals 
+
+1. Dictionaries [[dictionaries.md]]
